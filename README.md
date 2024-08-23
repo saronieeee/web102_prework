@@ -22,12 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://imgur.com/a/xX8tFXf' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with LiceCap
 https://imgur.com/a/xX8tFXf
+
+GIF created with LiceCap
 
 ## License
 
